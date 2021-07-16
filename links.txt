@@ -1,0 +1,7 @@
+Time and Space Complexity:
+
+Declared Globally (goes to heap) : <=1e8 whereas inside main or any other function then <=1e7 (goes to Stack)
+
+https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-and-space-complexity/tutorial/
+
+##################################################
